@@ -1,0 +1,1 @@
+This folder is dedicated to crack localization and classification using Fast-RCNN model. Faster R-CNN (frcnn for short) makes further progress than Fast R-CNN. Search selective process is replaced by Region Proposal Network (RPN). As the name revealed, RPN is a network to propose regions.

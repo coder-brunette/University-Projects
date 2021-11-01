@@ -1,1 +1,4 @@
-This folder is dedicated to crack localization and classification using Fast-RCNN model. Faster R-CNN (frcnn for short) makes further progress than Fast R-CNN. Search selective process is replaced by Region Proposal Network (RPN). As the name revealed, RPN is a network to propose regions.
+This folder is dedicated to crack localization and classification using Fast-RCNN model. Faster R-CNN (frcnn for short) makes further progress than Fast R-CNN. 
+Search selective process is replaced by Region Proposal Network (RPN). As the name revealed, RPN is a network to propose regions.
+
+Please learn about FRCNN here - https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a#:~:text=Faster%20R%2DCNN%20(frcnn%20for,a%20network%20to%20propose%20regions.

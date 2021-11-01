@@ -1,6 +1,6 @@
 # University-Projects
 
-This repository includes all the projects that I did during my college and some individual projects that I completed after my bachelors. It consists of total 5 projects.
+This repository includes all the projects that I did during my college and some individual projects that I completed after my bachelors. It consists of total 12 projects.
 
 1. Webcam Motion Detector, Chhatrapati Shivaji Institute of Technology                January 2016 – March 2016
 Independently built a webcam motion detector based on Python to track motion on live camera.

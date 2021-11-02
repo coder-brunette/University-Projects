@@ -1,0 +1,2 @@
+This project is based on retrieving characters from hoardings, newspapers, handwritten or printed text, etc. I am using Keras OCR Library to retrieve the texts from vivid sources.
+For more details on Keras OCR, visit this link - https://towardsdatascience.com/how-did-i-train-an-ocr-model-using-keras-and-tensorflow-7e10b241c22b

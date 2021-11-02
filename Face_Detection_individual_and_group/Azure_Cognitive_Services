@@ -1,0 +1,1 @@
+This project deals with detecting faces both individual and group from a picture or a video. It uses Azure cognitive services in-built deep learning models to detect faces of people.

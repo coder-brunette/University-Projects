@@ -1,0 +1,2 @@
+This project predicts temperature for a particular city for upcoming 10 days based on past month temperature data. It is based on LSTM which is an exceptionally efficient deep learning mode.
+To know more about LSTM, check out this article - https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/

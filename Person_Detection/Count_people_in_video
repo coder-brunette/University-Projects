@@ -1,0 +1,2 @@
+This project detects and counts number of people in a video. It basically is doing video analytics. An event in this case counting is triggered as soon as a person enters in the 
+zone of interest in the video.

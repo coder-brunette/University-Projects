@@ -1,0 +1,2 @@
+This project file consists of a machine learning model that detects cracks over bridges, pipelines, roads and railtracks. The model used is Resnet50, which is a Tensorflow version 1 free pretrained model. 
+To gain more insight into functioning of Resnet50 model please go through this article - https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33#:~:text=The%20ResNet%2D50%20model%20consists,over%2023%20million%20trainable%20parameters.

@@ -1,0 +1,2 @@
+This project serves the purpose of detecting the labels on the bottles in a picture. Usually, this kind of quality management is instrumental in factory supply chains to maintain the quality
+of the product from manufacturing to packaging. The code here detects if the labels are present or properly put on the bottles in the picture.

@@ -1,4 +1,4 @@
-# University-Projects
+## University Projects
 
 This repository includes all the projects that I did during my college and some individual projects that I completed after my bachelors. It consists of total 12 projects.
 
@@ -29,5 +29,6 @@ Detection of an individual or multiple faces in a picture using deep learning mo
 12. Device Detection through IoT, Chhatrapati Shivaji Institute of Technology    August 2015 – November 2015  
 Developed an Arduino based device locator using the RF module.
  
+ ![](https://github.com/coder-brunette/coder-brunette/blob/main/giphy8.gif)
 
 

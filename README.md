@@ -29,6 +29,6 @@ Detection of an individual or multiple faces in a picture using deep learning mo
 12. Device Detection through IoT, Chhatrapati Shivaji Institute of Technology    August 2015 – November 2015  
 Developed an Arduino based device locator using the RF module.
  
- ![](https://github.com/coder-brunette/coder-brunette/blob/main/giphy8.gif)
+ ![](https://github.com/coder-brunette/University-Projects/blob/main/giphy8.gif)
 
 
